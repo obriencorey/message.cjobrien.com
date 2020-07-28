@@ -1,0 +1,7 @@
+[26-May-2020 10:46:10 CST6CDT] PHP Parse error:  syntax error, unexpected '%', expecting ';' in /home/customer/www/message.cjobrien.com/public_html/save.php on line 36
+[26-May-2020 11:50:50 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/message.cjobrien.com/public_html/save.php on line 74
+[26-May-2020 11:51:00 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/message.cjobrien.com/public_html/save.php on line 74
+[26-May-2020 11:53:34 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/customer/www/message.cjobrien.com/public_html/save.php on line 74
+[29-May-2020 10:01:23 CST6CDT] PHP Parse error:  syntax error, unexpected '$handle' (T_VARIABLE) in /home/customer/www/message.cjobrien.com/public_html/save.php on line 96
+[29-May-2020 10:03:20 CST6CDT] PHP Parse error:  syntax error, unexpected '$handle' (T_VARIABLE) in /home/customer/www/message.cjobrien.com/public_html/save.php on line 96
+[29-May-2020 10:04:56 CST6CDT] PHP Parse error:  syntax error, unexpected '$fileContent' (T_VARIABLE) in /home/customer/www/message.cjobrien.com/public_html/save.php on line 96

@@ -1,0 +1,328 @@
+AWSTATS DATA FILE 7.7 (build 20161204)
+# If you remove this file, all statistics for date 202007 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.message.cjobrien.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2003                
+POS_TIME 2685                
+POS_VISITOR 7336                
+POS_DAY 8019                
+POS_DOMAIN 3530                
+POS_LOGIN 3785                
+POS_ROBOT 4009                
+POS_WORMS 4383                
+POS_EMAILSENDER 4514                
+POS_EMAILRECEIVER 4657                
+POS_SESSION 8920                
+POS_SIDER 9098                
+POS_FILETYPES 4792                
+POS_DOWNLOADS 5017                
+POS_OS 5186                
+POS_BROWSER 5391                
+POS_SCREENSIZE 5728                
+POS_UNKNOWNREFERER 5802                
+POS_UNKNOWNREFERERBROWSER 5922                
+POS_ORIGIN 6037                
+POS_SEREFERRALS 6178                
+POS_PAGEREFS 6322                
+POS_SEARCHWORDS 6504                
+POS_KEYWORDS 6656                
+POS_MISC 2349                
+POS_ERRORS 6715                
+POS_CLUSTER 3641                
+POS_SIDER_404 6819                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200728042522 39194786 6630755912 0
+FirstTime 0
+LastTime 20200726160528
+LastUpdate 20200728043928 39194786 37058489 2136297 0 0
+TotalVisits 42                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 16                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 1645965 79173727 0 5 88091
+1 7 1605377 79699939 0 1 0
+2 0 1482499 70181935 0 0 0
+3 8 1380896 65709561 1 2 42001
+4 0 1318933 59865384 0 0 0
+5 0 1273374 56875122 0 0 0
+6 0 1267470 56947831 0 0 0
+7 0 1279313 57243732 0 0 0
+8 0 1280918 57284163 0 0 0
+9 0 1281862 57392915 0 0 0
+10 10 1280710 60073273 3 4 53596
+11 7 1317319 61231086 1 6 163191
+12 13 1402643 66397515 5 12 316019
+13 6 1497130 69847755 0 5 88091
+14 0 1554935 71121593 0 1 0
+15 5 1583757 84836493 2 3 6385829
+16 10 1612292 80509934 2 9 182507
+17 6 1621565 76217655 1 3 42001
+18 2 1604303 72956395 1 1 1253
+19 0 1587435 70613122 0 0 0
+20 12 1571430 75235265 0 0 0
+21 16 1533789 77637693 2 2 150200
+22 5 1491935 69499100 0 0 0
+23 3 1540563 70873358 0 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 120 35016403 1637203957
+il 2 10 10220589
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 2
+frances 24 57 5459528 20200726003352
+corey 1 2 726752 20200726160529
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+CFNetwork 5 54135 20200725115110 0
+AhrefsBot/ 3 2567 20200719181006 1
+bingbot/ 3 2567 20200726154256 1
+BLEXBot/ 2 122 20200716173252 2
+bot[\s_+:,\.\;\/\\-] 2 6024 20200713100201 0
+^Mozilla/6\.0[\x20]\(compatible\)$ 1 6309476 20200716151156 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 22 770 0 0
+css 169 1562709 0 0
+png 40 7926313 0 0
+html 67 92424 0 0
+js 210 3185256 0 0
+jpeg 54 35749556 0 0
+woff2 33 2160480 0 0
+txt 35015818 1596747038 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/aWUvnSSJYA9rRCI9E1jl.txt 17578506 0 766379515
+/datastorage.txt 17437305 0 830352823
+/permanentdatastorage.txt 7 0 14700
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 11
+winlong 2 2
+macosx6 1 0
+winxp 1 0
+ios_iphone 451 84
+linux 1 0
+win7 1 0
+macosx9 1 0
+Unknown 35015811 0
+win10 141 36
+macosx8 1 0
+macosx7 2 0
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+safari6.0.5 1 0
+chrome32.0.1700.68 1 0
+edge16 8 4
+firefox25.0 1 0
+chrome84.0.4147.89 27 3
+firefox26.0 1 0
+chrome12.0.742.91 2 2
+msie10.0 1 0
+chrome83.0.4103.106 10 8
+safari13.1.1 222 41
+chrome31.0.1650.63 2 0
+safari6.1 1 0
+Unknown 35015811 0
+chrome83.0.4103.116 96 21
+safari13.1 229 43
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+ESP8266HTTPClient 20200728042522
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+ESP8266HTTPClient 20200728042522
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 44 35015870
+From1 0 0
+From2 0 0
+From3 1 1
+From4 77 542
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://www.cjobrien.com/other 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+401 11 732252
+404 21 405636
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/apple-touch-icon-precomposed.png 5 -
+/apple-touch-icon-120x120.png 5 -
+/apple-touch-icon.png 5 -
+/apple-touch-icon-120x120-precomposed.png 5 -
+/message.html 1 http://message.cjobrien.com/inputToFrances.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 16
+71.182.151.188 60 17437641 850650561 20200726160528
+69.174.156.154 32 17162120 748863682 20200726003352
+134.173.92.8 8 32 3258004 20200702211426
+40.117.213.15 4 8 48320 20200723200411
+99.203.29.80 3 16 1410213 20200717161018
+99.203.64.49 3 15 1706143 20200703150622
+99.203.78.245 3 14 942356 20200717172825
+99.203.186.49 3 15 1706143 20200707163925
+82.80.244.59 2 6 43984 20200716151021
+99.203.186.131 2 13 942321 20200726012648
+82.80.249.164 0 1 1184976 
+82.80.249.143 0 1 762569 
+128.210.106.77 0 1 2077 
+108.184.171.135 0 416515 26731816 
+99.203.15.210 2 13 942321 20200725164907
+82.80.230.228 0 2 8229060 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20200701 9 1179574 60134348 2
+20200702 11 1134676 67937013 3
+20200703 10 1018462 21211606 3
+20200704 0 973087 14596305 0
+20200705 0 968729 14530935 0
+20200706 0 966134 14492010 0
+20200707 10 983852 18214221 3
+20200708 2 989634 13892284 1
+20200709 11 1612247 95476632 2
+20200710 2 1440230 96967369 1
+20200711 7 1253396 79557199 2
+20200712 2 974985 60415613 1
+20200713 5 1511209 99646048 2
+20200714 2 1649743 114923456 2
+20200715 5 1543357 108019380 1
+20200716 8 1525000 115570869 3
+20200717 6 1177200 61193811 2
+20200718 0 1167680 26856640 0
+20200719 3 1191819 22657246 1
+20200720 1 1177602 14143280 1
+20200721 0 1196890 14362680 0
+20200722 6 1158324 22151198 3
+20200723 1 1164214 62879528 1
+20200724 0 1172959 63339786 0
+20200725 10 1209732 62271570 3
+20200726 11 2149658 140449659 5
+20200727 0 2129241 136183310 0
+20200728 0 396779 25350550 0
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 4
+5mn-15mn 2
+0s-30s 32
+30s-2mn 6
+2mn-5mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 6
+/inputToFrances.html 34 60112 24 2
+/icon-fonts/fontawesome-webfont.woff2 33 2160480 0 15
+/ 17 20048 13 8
+/input.html 16 12264 2 9
+/save2.php 13 455 0 8
+/save.php 9 315 3 0
+END_SIDER
